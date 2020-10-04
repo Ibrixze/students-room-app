@@ -1,0 +1,4 @@
+[0719/173009.064:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x8007012B)
+[0719/173009.938:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0719/173009.938:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0719/173013.223:ERROR:process_info.cc(359)] UncheckedAllocate
